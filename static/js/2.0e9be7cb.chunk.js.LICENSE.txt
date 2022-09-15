@@ -1,0 +1,1058 @@
+/*
+        * [hi-base32]{@link https://github.com/emn178/hi-base32}
+        *
+        * @version 0.5.0
+        * @author Chen, Yi-Cyuan [emn178@gmail.com]
+        * @copyright Chen, Yi-Cyuan 2015-2018
+        * @license MIT
+        */
+
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/*!
+         * mime-db
+         * Copyright(c) 2014 Jonathan Ong
+         * MIT Licensed
+         */
+
+/*!
+         * mime-types
+         * Copyright(c) 2014 Jonathan Ong
+         * Copyright(c) 2015 Douglas Christopher Wilson
+         * MIT Licensed
+         */
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>
+ * @license  MIT
+ */
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <http://feross.org>
+ * @license  MIT
+ */
+
+/*!
+ * v2.1.4-104-gc868b3a
+ * 
+ */
+
+/*! !webpack amd options */
+
+/*! ../../../util/errorResponse */
+
+/*! ../../../util/validators */
+
+/*! ../../modules/_core */
+
+/*! ../../modules/core.regexp.escape */
+
+/*! ../../util/errorResponse */
+
+/*! ../../util/validators */
+
+/*! ../cancel/isCancel */
+
+/*! ../core/buildFullPath */
+
+/*! ../core/createError */
+
+/*! ../core/enhanceError */
+
+/*! ../defaults */
+
+/*! ../helpers/buildURL */
+
+/*! ../helpers/combineURLs */
+
+/*! ../helpers/isAbsoluteURL */
+
+/*! ../utils */
+
+/*! ./../../../constants */
+
+/*! ./../../constants */
+
+/*! ./../../package.json */
+
+/*! ./../core/settle */
+
+/*! ./../helpers/buildURL */
+
+/*! ./../helpers/cookies */
+
+/*! ./../helpers/isURLSameOrigin */
+
+/*! ./../helpers/parseHeaders */
+
+/*! ./../utils */
+
+/*! ./Cancel */
+
+/*! ./InterceptorManager */
+
+/*! ./_a-function */
+
+/*! ./_a-number-value */
+
+/*! ./_add-to-unscopables */
+
+/*! ./_advance-string-index */
+
+/*! ./_an-instance */
+
+/*! ./_an-object */
+
+/*! ./_array-copy-within */
+
+/*! ./_array-fill */
+
+/*! ./_array-from-iterable */
+
+/*! ./_array-includes */
+
+/*! ./_array-methods */
+
+/*! ./_array-reduce */
+
+/*! ./_array-species-constructor */
+
+/*! ./_array-species-create */
+
+/*! ./_bind */
+
+/*! ./_classof */
+
+/*! ./_cof */
+
+/*! ./_collection */
+
+/*! ./_collection-strong */
+
+/*! ./_collection-to-json */
+
+/*! ./_collection-weak */
+
+/*! ./_core */
+
+/*! ./_create-property */
+
+/*! ./_ctx */
+
+/*! ./_date-to-iso-string */
+
+/*! ./_date-to-primitive */
+
+/*! ./_defined */
+
+/*! ./_descriptors */
+
+/*! ./_dom-create */
+
+/*! ./_enum-bug-keys */
+
+/*! ./_enum-keys */
+
+/*! ./_export */
+
+/*! ./_fails */
+
+/*! ./_fails-is-regexp */
+
+/*! ./_fix-re-wks */
+
+/*! ./_flags */
+
+/*! ./_flatten-into-array */
+
+/*! ./_for-of */
+
+/*! ./_function-to-string */
+
+/*! ./_global */
+
+/*! ./_has */
+
+/*! ./_hide */
+
+/*! ./_html */
+
+/*! ./_ie8-dom-define */
+
+/*! ./_inherit-if-required */
+
+/*! ./_invoke */
+
+/*! ./_iobject */
+
+/*! ./_is-array */
+
+/*! ./_is-array-iter */
+
+/*! ./_is-integer */
+
+/*! ./_is-object */
+
+/*! ./_is-regexp */
+
+/*! ./_iter-call */
+
+/*! ./_iter-create */
+
+/*! ./_iter-define */
+
+/*! ./_iter-detect */
+
+/*! ./_iter-step */
+
+/*! ./_iterators */
+
+/*! ./_library */
+
+/*! ./_math-expm1 */
+
+/*! ./_math-fround */
+
+/*! ./_math-log1p */
+
+/*! ./_math-scale */
+
+/*! ./_math-sign */
+
+/*! ./_meta */
+
+/*! ./_metadata */
+
+/*! ./_microtask */
+
+/*! ./_new-promise-capability */
+
+/*! ./_object-assign */
+
+/*! ./_object-create */
+
+/*! ./_object-dp */
+
+/*! ./_object-dps */
+
+/*! ./_object-forced-pam */
+
+/*! ./_object-gopd */
+
+/*! ./_object-gopn */
+
+/*! ./_object-gopn-ext */
+
+/*! ./_object-gops */
+
+/*! ./_object-gpo */
+
+/*! ./_object-keys */
+
+/*! ./_object-keys-internal */
+
+/*! ./_object-pie */
+
+/*! ./_object-sap */
+
+/*! ./_object-to-array */
+
+/*! ./_own-keys */
+
+/*! ./_parse-float */
+
+/*! ./_parse-int */
+
+/*! ./_perform */
+
+/*! ./_promise-resolve */
+
+/*! ./_property-desc */
+
+/*! ./_redefine */
+
+/*! ./_redefine-all */
+
+/*! ./_regexp-exec */
+
+/*! ./_regexp-exec-abstract */
+
+/*! ./_replacer */
+
+/*! ./_same-value */
+
+/*! ./_set-collection-from */
+
+/*! ./_set-collection-of */
+
+/*! ./_set-proto */
+
+/*! ./_set-species */
+
+/*! ./_set-to-string-tag */
+
+/*! ./_shared */
+
+/*! ./_shared-key */
+
+/*! ./_species-constructor */
+
+/*! ./_strict-method */
+
+/*! ./_string-at */
+
+/*! ./_string-context */
+
+/*! ./_string-html */
+
+/*! ./_string-pad */
+
+/*! ./_string-repeat */
+
+/*! ./_string-trim */
+
+/*! ./_string-ws */
+
+/*! ./_task */
+
+/*! ./_to-absolute-index */
+
+/*! ./_to-index */
+
+/*! ./_to-integer */
+
+/*! ./_to-iobject */
+
+/*! ./_to-length */
+
+/*! ./_to-object */
+
+/*! ./_to-primitive */
+
+/*! ./_typed */
+
+/*! ./_typed-array */
+
+/*! ./_typed-buffer */
+
+/*! ./_uid */
+
+/*! ./_user-agent */
+
+/*! ./_validate-collection */
+
+/*! ./_wks */
+
+/*! ./_wks-define */
+
+/*! ./_wks-ext */
+
+/*! ./abort.js */
+
+/*! ./adapters/http */
+
+/*! ./adapters/xhr */
+
+/*! ./async.js */
+
+/*! ./base-table.json */
+
+/*! ./base.js */
+
+/*! ./base16 */
+
+/*! ./base32 */
+
+/*! ./base64 */
+
+/*! ./browser.js */
+
+/*! ./cancel/Cancel */
+
+/*! ./cancel/CancelToken */
+
+/*! ./cancel/isCancel */
+
+/*! ./cid-util */
+
+/*! ./codec */
+
+/*! ./commands/data/pinList/pinList */
+
+/*! ./commands/data/testAuthentication */
+
+/*! ./commands/data/userPinnedDataTotal */
+
+/*! ./commands/pinning/hashMetadata */
+
+/*! ./commands/pinning/hashPinPolicy */
+
+/*! ./commands/pinning/pinByHash */
+
+/*! ./commands/pinning/pinFileToIPFS */
+
+/*! ./commands/pinning/pinFromFS */
+
+/*! ./commands/pinning/pinJSONToIPFS */
+
+/*! ./commands/pinning/pinJobs/pinJobs */
+
+/*! ./commands/pinning/unpin */
+
+/*! ./commands/pinning/userPinPolicy */
+
+/*! ./common */
+
+/*! ./constants */
+
+/*! ./convert */
+
+/*! ./core.get-iterator-method */
+
+/*! ./core/Axios */
+
+/*! ./core/mergeConfig */
+
+/*! ./createError */
+
+/*! ./db.json */
+
+/*! ./debug */
+
+/*! ./decode.js */
+
+/*! ./defaults */
+
+/*! ./defer.js */
+
+/*! ./dispatchRequest */
+
+/*! ./encode.js */
+
+/*! ./enhanceError */
+
+/*! ./es6.array.iterator */
+
+/*! ./es6.map */
+
+/*! ./es6.regexp.exec */
+
+/*! ./es6.regexp.flags */
+
+/*! ./es6.set */
+
+/*! ./es6.weak-map */
+
+/*! ./helpers/bind */
+
+/*! ./helpers/isAxiosError */
+
+/*! ./helpers/normalizeHeaderName */
+
+/*! ./helpers/spread */
+
+/*! ./int-table */
+
+/*! ./length.js */
+
+/*! ./lib/axios */
+
+/*! ./lib/cpdirr */
+
+/*! ./lib/iterate.js */
+
+/*! ./lib/readdirr */
+
+/*! ./lib/rmdirr */
+
+/*! ./lib/state.js */
+
+/*! ./lib/terminator.js */
+
+/*! ./mergeConfig */
+
+/*! ./modules/_core */
+
+/*! ./modules/es6.array.copy-within */
+
+/*! ./modules/es6.array.every */
+
+/*! ./modules/es6.array.fill */
+
+/*! ./modules/es6.array.filter */
+
+/*! ./modules/es6.array.find */
+
+/*! ./modules/es6.array.find-index */
+
+/*! ./modules/es6.array.for-each */
+
+/*! ./modules/es6.array.from */
+
+/*! ./modules/es6.array.index-of */
+
+/*! ./modules/es6.array.is-array */
+
+/*! ./modules/es6.array.iterator */
+
+/*! ./modules/es6.array.join */
+
+/*! ./modules/es6.array.last-index-of */
+
+/*! ./modules/es6.array.map */
+
+/*! ./modules/es6.array.of */
+
+/*! ./modules/es6.array.reduce */
+
+/*! ./modules/es6.array.reduce-right */
+
+/*! ./modules/es6.array.slice */
+
+/*! ./modules/es6.array.some */
+
+/*! ./modules/es6.array.sort */
+
+/*! ./modules/es6.array.species */
+
+/*! ./modules/es6.date.now */
+
+/*! ./modules/es6.date.to-iso-string */
+
+/*! ./modules/es6.date.to-json */
+
+/*! ./modules/es6.date.to-primitive */
+
+/*! ./modules/es6.date.to-string */
+
+/*! ./modules/es6.function.bind */
+
+/*! ./modules/es6.function.has-instance */
+
+/*! ./modules/es6.function.name */
+
+/*! ./modules/es6.map */
+
+/*! ./modules/es6.math.acosh */
+
+/*! ./modules/es6.math.asinh */
+
+/*! ./modules/es6.math.atanh */
+
+/*! ./modules/es6.math.cbrt */
+
+/*! ./modules/es6.math.clz32 */
+
+/*! ./modules/es6.math.cosh */
+
+/*! ./modules/es6.math.expm1 */
+
+/*! ./modules/es6.math.fround */
+
+/*! ./modules/es6.math.hypot */
+
+/*! ./modules/es6.math.imul */
+
+/*! ./modules/es6.math.log10 */
+
+/*! ./modules/es6.math.log1p */
+
+/*! ./modules/es6.math.log2 */
+
+/*! ./modules/es6.math.sign */
+
+/*! ./modules/es6.math.sinh */
+
+/*! ./modules/es6.math.tanh */
+
+/*! ./modules/es6.math.trunc */
+
+/*! ./modules/es6.number.constructor */
+
+/*! ./modules/es6.number.epsilon */
+
+/*! ./modules/es6.number.is-finite */
+
+/*! ./modules/es6.number.is-integer */
+
+/*! ./modules/es6.number.is-nan */
+
+/*! ./modules/es6.number.is-safe-integer */
+
+/*! ./modules/es6.number.max-safe-integer */
+
+/*! ./modules/es6.number.min-safe-integer */
+
+/*! ./modules/es6.number.parse-float */
+
+/*! ./modules/es6.number.parse-int */
+
+/*! ./modules/es6.number.to-fixed */
+
+/*! ./modules/es6.number.to-precision */
+
+/*! ./modules/es6.object.assign */
+
+/*! ./modules/es6.object.create */
+
+/*! ./modules/es6.object.define-properties */
+
+/*! ./modules/es6.object.define-property */
+
+/*! ./modules/es6.object.freeze */
+
+/*! ./modules/es6.object.get-own-property-descriptor */
+
+/*! ./modules/es6.object.get-own-property-names */
+
+/*! ./modules/es6.object.get-prototype-of */
+
+/*! ./modules/es6.object.is */
+
+/*! ./modules/es6.object.is-extensible */
+
+/*! ./modules/es6.object.is-frozen */
+
+/*! ./modules/es6.object.is-sealed */
+
+/*! ./modules/es6.object.keys */
+
+/*! ./modules/es6.object.prevent-extensions */
+
+/*! ./modules/es6.object.seal */
+
+/*! ./modules/es6.object.set-prototype-of */
+
+/*! ./modules/es6.object.to-string */
+
+/*! ./modules/es6.parse-float */
+
+/*! ./modules/es6.parse-int */
+
+/*! ./modules/es6.promise */
+
+/*! ./modules/es6.reflect.apply */
+
+/*! ./modules/es6.reflect.construct */
+
+/*! ./modules/es6.reflect.define-property */
+
+/*! ./modules/es6.reflect.delete-property */
+
+/*! ./modules/es6.reflect.enumerate */
+
+/*! ./modules/es6.reflect.get */
+
+/*! ./modules/es6.reflect.get-own-property-descriptor */
+
+/*! ./modules/es6.reflect.get-prototype-of */
+
+/*! ./modules/es6.reflect.has */
+
+/*! ./modules/es6.reflect.is-extensible */
+
+/*! ./modules/es6.reflect.own-keys */
+
+/*! ./modules/es6.reflect.prevent-extensions */
+
+/*! ./modules/es6.reflect.set */
+
+/*! ./modules/es6.reflect.set-prototype-of */
+
+/*! ./modules/es6.regexp.constructor */
+
+/*! ./modules/es6.regexp.exec */
+
+/*! ./modules/es6.regexp.flags */
+
+/*! ./modules/es6.regexp.match */
+
+/*! ./modules/es6.regexp.replace */
+
+/*! ./modules/es6.regexp.search */
+
+/*! ./modules/es6.regexp.split */
+
+/*! ./modules/es6.regexp.to-string */
+
+/*! ./modules/es6.set */
+
+/*! ./modules/es6.string.anchor */
+
+/*! ./modules/es6.string.big */
+
+/*! ./modules/es6.string.blink */
+
+/*! ./modules/es6.string.bold */
+
+/*! ./modules/es6.string.code-point-at */
+
+/*! ./modules/es6.string.ends-with */
+
+/*! ./modules/es6.string.fixed */
+
+/*! ./modules/es6.string.fontcolor */
+
+/*! ./modules/es6.string.fontsize */
+
+/*! ./modules/es6.string.from-code-point */
+
+/*! ./modules/es6.string.includes */
+
+/*! ./modules/es6.string.italics */
+
+/*! ./modules/es6.string.iterator */
+
+/*! ./modules/es6.string.link */
+
+/*! ./modules/es6.string.raw */
+
+/*! ./modules/es6.string.repeat */
+
+/*! ./modules/es6.string.small */
+
+/*! ./modules/es6.string.starts-with */
+
+/*! ./modules/es6.string.strike */
+
+/*! ./modules/es6.string.sub */
+
+/*! ./modules/es6.string.sup */
+
+/*! ./modules/es6.string.trim */
+
+/*! ./modules/es6.symbol */
+
+/*! ./modules/es6.typed.array-buffer */
+
+/*! ./modules/es6.typed.data-view */
+
+/*! ./modules/es6.typed.float32-array */
+
+/*! ./modules/es6.typed.float64-array */
+
+/*! ./modules/es6.typed.int16-array */
+
+/*! ./modules/es6.typed.int32-array */
+
+/*! ./modules/es6.typed.int8-array */
+
+/*! ./modules/es6.typed.uint16-array */
+
+/*! ./modules/es6.typed.uint32-array */
+
+/*! ./modules/es6.typed.uint8-array */
+
+/*! ./modules/es6.typed.uint8-clamped-array */
+
+/*! ./modules/es6.weak-map */
+
+/*! ./modules/es6.weak-set */
+
+/*! ./modules/es7.array.flat-map */
+
+/*! ./modules/es7.array.flatten */
+
+/*! ./modules/es7.array.includes */
+
+/*! ./modules/es7.asap */
+
+/*! ./modules/es7.error.is-error */
+
+/*! ./modules/es7.global */
+
+/*! ./modules/es7.map.from */
+
+/*! ./modules/es7.map.of */
+
+/*! ./modules/es7.map.to-json */
+
+/*! ./modules/es7.math.clamp */
+
+/*! ./modules/es7.math.deg-per-rad */
+
+/*! ./modules/es7.math.degrees */
+
+/*! ./modules/es7.math.fscale */
+
+/*! ./modules/es7.math.iaddh */
+
+/*! ./modules/es7.math.imulh */
+
+/*! ./modules/es7.math.isubh */
+
+/*! ./modules/es7.math.rad-per-deg */
+
+/*! ./modules/es7.math.radians */
+
+/*! ./modules/es7.math.scale */
+
+/*! ./modules/es7.math.signbit */
+
+/*! ./modules/es7.math.umulh */
+
+/*! ./modules/es7.object.define-getter */
+
+/*! ./modules/es7.object.define-setter */
+
+/*! ./modules/es7.object.entries */
+
+/*! ./modules/es7.object.get-own-property-descriptors */
+
+/*! ./modules/es7.object.lookup-getter */
+
+/*! ./modules/es7.object.lookup-setter */
+
+/*! ./modules/es7.object.values */
+
+/*! ./modules/es7.observable */
+
+/*! ./modules/es7.promise.finally */
+
+/*! ./modules/es7.promise.try */
+
+/*! ./modules/es7.reflect.define-metadata */
+
+/*! ./modules/es7.reflect.delete-metadata */
+
+/*! ./modules/es7.reflect.get-metadata */
+
+/*! ./modules/es7.reflect.get-metadata-keys */
+
+/*! ./modules/es7.reflect.get-own-metadata */
+
+/*! ./modules/es7.reflect.get-own-metadata-keys */
+
+/*! ./modules/es7.reflect.has-metadata */
+
+/*! ./modules/es7.reflect.has-own-metadata */
+
+/*! ./modules/es7.reflect.metadata */
+
+/*! ./modules/es7.set.from */
+
+/*! ./modules/es7.set.of */
+
+/*! ./modules/es7.set.to-json */
+
+/*! ./modules/es7.string.at */
+
+/*! ./modules/es7.string.match-all */
+
+/*! ./modules/es7.string.pad-end */
+
+/*! ./modules/es7.string.pad-start */
+
+/*! ./modules/es7.string.trim-left */
+
+/*! ./modules/es7.string.trim-right */
+
+/*! ./modules/es7.symbol.async-iterator */
+
+/*! ./modules/es7.symbol.observable */
+
+/*! ./modules/es7.system.global */
+
+/*! ./modules/es7.weak-map.from */
+
+/*! ./modules/es7.weak-map.of */
+
+/*! ./modules/es7.weak-set.from */
+
+/*! ./modules/es7.weak-set.of */
+
+/*! ./modules/web.dom.iterable */
+
+/*! ./modules/web.immediate */
+
+/*! ./modules/web.timers */
+
+/*! ./node.js */
+
+/*! ./parallel.js */
+
+/*! ./populate.js */
+
+/*! ./print */
+
+/*! ./protocols-table */
+
+/*! ./queryBuilder */
+
+/*! ./readdirr */
+
+/*! ./serial.js */
+
+/*! ./serialOrdered.js */
+
+/*! ./transformData */
+
+/*! ./util */
+
+/*! ./utils */
+
+/*! ./varint-table */
+
+/*! /Users/mattober/Repos/ipfs/pinata/open-source-tools/Pinata-SDK/src/index.js */
+
+/*! assert */
+
+/*! asynckit */
+
+/*! axios */
+
+/*! babel-polyfill */
+
+/*! base-path-converter */
+
+/*! base-x */
+
+/*! bs58 */
+
+/*! buffer */
+
+/*! cids */
+
+/*! class-is */
+
+/*! combined-stream */
+
+/*! core-js/fn/regexp/escape */
+
+/*! core-js/shim */
+
+/*! debug */
+
+/*! delayed-stream */
+
+/*! follow-redirects */
+
+/*! form-data */
+
+/*! fs */
+
+/*! has-flag */
+
+/*! hi-base32 */
+
+/*! http */
+
+/*! https */
+
+/*! https://mths.be/punycode v1.4.1 by @mathias */
+
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/*! ip */
+
+/*! ip-regex */
+
+/*! is-ip */
+
+/*! is-ipfs */
+
+/*! mafmt */
+
+/*! mime-db */
+
+/*! mime-types */
+
+/*! ms */
+
+/*! multiaddr */
+
+/*! multibase */
+
+/*! multicodec */
+
+/*! multicodec/src/base-table.json */
+
+/*! multihashes */
+
+/*! os */
+
+/*! path */
+
+/*! recursive-fs */
+
+/*! regenerator-runtime/runtime */
+
+/*! safe-buffer */
+
+/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/*! stream */
+
+/*! supports-color */
+
+/*! tty */
+
+/*! url */
+
+/*! util */
+
+/*! varint */
+
+/*! zlib */
+
+/**
+ * [js-sha3]{@link https://github.com/emn178/js-sha3}
+ *
+ * @version 0.5.7
+ * @author Chen, Yi-Cyuan [emn178@gmail.com]
+ * @copyright Chen, Yi-Cyuan 2015-2016
+ * @license MIT
+ */
+
+/**
+ * [js-sha3]{@link https://github.com/emn178/js-sha3}
+ *
+ * @version 0.8.0
+ * @author Chen, Yi-Cyuan [emn178@gmail.com]
+ * @copyright Chen, Yi-Cyuan 2015-2018
+ * @license MIT
+ */
+
+/** @license React v0.20.2
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
